@@ -1,7 +1,4 @@
 "use strict";  /* использование последней  версии  js  */
-
-import users from "./user.js";
-
 const getUserNames = use => {
   return use.map((names) => names.name);   // 1
 }
