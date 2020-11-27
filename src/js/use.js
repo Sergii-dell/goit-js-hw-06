@@ -1,4 +1,3 @@
-"use strict"; 
 const users = [
   {
     id: '701b29c3-b35d-4cf1-a5f6-8b12b29a5081',
@@ -85,4 +84,3 @@ const users = [
     age: 39,
   },
 ];
-

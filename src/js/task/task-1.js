@@ -1,4 +1,5 @@
 "use strict";  /* использование последней  версии  js  */
+
 const getUserNames = use => {
   return use.map((names) => names.name);   // 1
 }
